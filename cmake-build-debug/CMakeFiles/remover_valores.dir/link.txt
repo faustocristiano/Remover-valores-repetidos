@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/remover_valores.dir/main.cpp.o -o remover_valores 
